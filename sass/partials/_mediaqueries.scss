@@ -1,0 +1,26 @@
+@media (min-width: 500px){
+    #acerca-nosotros .container{
+        display: flex;
+        justify-content: space-evenly;}
+
+        #acerca-nosotros .texto{
+            width: 50%;
+            text-align: initial;
+            padding: 0px 30px;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            text-align: justify;
+        }
+        .img-container{
+        background-image: url("/img/nosotros/1-nosotros.jpg");
+        background-size: cover;
+        background-position: center center;
+        height: 500px;
+        width: 400px;
+        }
+
+}
+
+    
+   
